@@ -59,7 +59,14 @@ document.getElementById("year").textContent=new Date().getFullYear();
 
 const modal=document.getElementById("editor-modal"), form=document.getElementById("editor-form");
 document.getElementById("edit-btn").onclick=()=>{
-  modal.classList.add("show");
+document.getElementById("edit-btn").onclick = () => {
+  const password = prompt("Enter Password to Edit:");
+  if (password === "19107") {
+    modal.classList.add("show");
+  } else {
+    alert("ভুল পাসওয়ার্ড!");
+  }
+};
   Object.entries(data).forEach(([key,val])=>{
     const input=form.elements[key];
     if(input) input.value=Array.isArray(val)?val.join(", "):val;
