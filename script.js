@@ -64,7 +64,7 @@ document.getElementById("edit-btn").onclick = () => {
   if (password === "19107") {
     modal.classList.add("show");
   } else {
-    alert("ভুল পাসওয়ার্ড!");
+    alert("Need access? Feel free to reach out to me for the password!");
   }
 };
   Object.entries(data).forEach(([key,val])=>{
