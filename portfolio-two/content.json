@@ -1,0 +1,158 @@
+{
+  "referenceUpdate": 1,
+  "journeyEnabled": true,
+  "journey": [
+    {
+      "id": "start",
+      "year": "2026",
+      "title": "Starting My Digital Journey",
+      "description": "Building my personal portfolio and strengthening foundations in programming, web development, AI, and digital marketing.",
+      "status": "Current"
+    },
+    {
+      "id": "projects",
+      "year": "2027",
+      "title": "Building Practical Projects",
+      "description": "Planning to create useful AI, web and app projects while developing a stronger technical portfolio.",
+      "status": "Planned"
+    },
+    {
+      "id": "growth",
+      "year": "2028–2029",
+      "title": "Experience & Growth",
+      "description": "Aiming to explore internships, freelance opportunities, and practical experience in technology and digital marketing.",
+      "status": "Planned"
+    },
+    {
+      "id": "graduation",
+      "year": "2030",
+      "title": "Graduation & Next Chapter",
+      "description": "Expected completion of my B.Sc. in Computer Science & Engineering, followed by the next steps toward a career in AI, digital technology, and entrepreneurship.",
+      "status": "Expected"
+    }
+  ],
+  "name": "Arafat Hossain Alvi",
+  "shortName": "Alvi",
+  "headline": "CSE Student · Web Developer · SEO Specialist · Digital Marketer",
+  "heroLabels": "Future Builder,AI Enthusiast",
+  "intro": "Passionate about Artificial Intelligence, digital marketing, technology, and entrepreneurship. I enjoy learning new skills, building digital projects, and exploring how technology can solve real-world problems.",
+  "about": "I am Arafat Hossain Alvi, a Computer Science student at Southeast University in Dhaka, Bangladesh, with a strong interest in Artificial Intelligence, digital marketing, technology, and entrepreneurship. I am developing my technical knowledge while exploring programming, web technologies, online business, and digital marketing. My goal is to combine technology and creativity to build useful digital solutions and eventually create something of my own.",
+  "community": "Volunteer · Ucchas Bangladesh · Since 2023",
+  "location": "Dhaka, Bangladesh",
+  "email": "arafatalvi37@gmail.com",
+  "photo": "https://alvi-motion-studio.light-shrew-3076.chatgpt.site/images/alvi-cyber-portrait-enhanced.png",
+  "aboutPhoto": "https://alvi-motion-studio.light-shrew-3076.chatgpt.site/images/alvi-profile.jpg",
+  "heroVideo": "",
+  "cv": "https://alvi-motion-studio.light-shrew-3076.chatgpt.site/documents/Arafat-Hossain-Alvi-Portfolio-CV.pdf",
+  "github": "",
+  "linkedin": "",
+  "instagram": "https://www.instagram.com/al_vin_29/",
+  "facebook": "https://www.facebook.com/arafat.alvi.566",
+  "university": "Southeast University",
+  "degree": "B.Sc. in Computer Science & Engineering",
+  "graduation": "2030 · expected",
+  "skills": "HTML & CSS,JavaScript,Python,Computer Science Fundamentals,Web Development,Problem Solving,Microsoft Office,Google Drive,Zoom,Graphic design,Communication,Teamwork,Organization & planning,Social Media Marketing,Content Planning,Content Marketing,SEO,Facebook / Meta Marketing,Content Strategy,Google Ads — Learning,Digital Marketing",
+  "learning": "Artificial Intelligence,AI Tools & Applications,Generative AI,Machine Learning — Learning",
+  "languages": "Bangla — Native,English — B2",
+  "learningNext": "Python — deeper study,Java — deeper study,App development,Other programming languages as projects require",
+  "direction": "I want to build useful websites and apps that make everyday tasks easier. My next steps are to deepen my programming knowledge, explore app development, and turn practical ideas into working tools.",
+  "projects": [
+    {
+      "id": "everyday-web-tools",
+      "title": "Everyday web tools",
+      "status": "planned",
+      "category": "Upcoming / Web",
+      "description": "An early direction for useful websites that simplify everyday tasks. The specific problem and features are still being defined.",
+      "image": "",
+      "url": "",
+      "github": "",
+      "technologies": "",
+      "role": "",
+      "story": "",
+      "published": true,
+      "featured": false,
+      "sortOrder": 10
+    },
+    {
+      "id": "helpful-apps",
+      "title": "Helpful apps",
+      "status": "planned",
+      "category": "Upcoming / Apps",
+      "description": "Exploring app ideas that help people in daily life, alongside deeper study of Python, Java and app development.",
+      "image": "",
+      "url": "",
+      "github": "",
+      "technologies": "",
+      "role": "",
+      "story": "",
+      "published": true,
+      "featured": false,
+      "sortOrder": 11
+    },
+    {
+      "id": "jiplance",
+      "status": "in-progress",
+      "title": "JIPLANCE",
+      "category": "E-commerce / Personal venture",
+      "description": "A book-focused online store for Bangladesh, with fashion as a growing part of the brand. I work on the site's direction, shopping experience, and ongoing improvements.",
+      "image": "https://alvi-motion-studio.light-shrew-3076.chatgpt.site/images/jiplance.webp",
+      "url": "https://jiplance.vercel.app/",
+      "github": "",
+      "technologies": "Next.js,Supabase,Vercel",
+      "role": "Project owner & website builder",
+      "story": "The idea\nCreate a book-focused online store for customers in Bangladesh, with fashion as another part of the brand. Product categories and age guidance help visitors explore the collection.\n\nThe website\nThe shopping experience includes book and fashion sections, product pages, a wishlist, customer accounts, a cart and order tracking. The project uses Next.js, Supabase and Vercel.\n\nMy contribution\nAs the project owner, I shape the website’s direction, organise content and work on the shopping experience. I continue improving the site and its management features step by step.\n\nWhat I’m learning\nThis project connects my interests in web development and entrepreneurship. It gives me practical experience in organising product information, thinking through customer journeys and maintaining a growing website.",
+      "published": true,
+      "featured": true,
+      "sortOrder": 0
+    },
+    {
+      "id": "personal-portfolio",
+      "status": "completed",
+      "title": "My first portfolio",
+      "category": "Personal website / Web design",
+      "description": "A personal website I built to bring my background, interests, and work together. Creating it helped me practise presenting information clearly and publishing a website with GitHub Pages.",
+      "image": "",
+      "url": "https://arafatalvi29.github.io/arafathossainalvi/",
+      "github": "",
+      "technologies": "Personal branding,Content design,GitHub Pages",
+      "role": "Creator",
+      "story": "The idea\nBuild a personal home on the web to introduce myself and bring my background, interests and work together.\n\nMy contribution\nI created the portfolio, organised its content and published it with GitHub Pages. The project helped me practise presenting personal information in a clear, accessible way.\n\nWhat I’m learning\nPlanning page sections, refining written content and publishing a live website gave me a foundation to build on. This earlier portfolio shows a step in my ongoing web-development journey.",
+      "published": true,
+      "featured": false,
+      "sortOrder": 1
+    }
+  ],
+  "certificates": [
+    {
+      "id": "basic-computer",
+      "title": "Basic Computer Course",
+      "description": "Successfully completed a basic computer course focused on fundamental computer knowledge and practical skills.",
+      "issued": "July 5, 2025",
+      "certificateId": "20240046203",
+      "badge": "Completed",
+      "issuer": "SSD-TECH",
+      "year": "2025",
+      "url": "",
+      "image": "https://alvi-motion-studio.light-shrew-3076.chatgpt.site/images/basic-computer-certificate.jpg"
+    },
+    {
+      "id": "digital-marketing",
+      "description": "Completed advanced digital marketing training with focus areas including SEO, social media marketing, paid advertising & PPC, and content strategy & analytics.",
+      "certificateId": "DMW-000142",
+      "badge": "Certificate of completion",
+      "title": "Advanced Digital Marketing",
+      "issuer": "Digital Marketing World",
+      "year": "",
+      "url": "",
+      "image": "https://alvi-motion-studio.light-shrew-3076.chatgpt.site/images/digital-marketing-certificate.jpg"
+    },
+    {
+      "id": "graphic-design",
+      "title": "Graphic Design",
+      "issuer": "Uniko Engineer's",
+      "year": "2026",
+      "url": "",
+      "image": ""
+    }
+  ]
+}

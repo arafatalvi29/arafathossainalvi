@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1087 1447">
+ <defs><filter id="soft"><feGaussianBlur stdDeviation="4"/></filter></defs>
+ <g fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke-width="12" opacity=".75" filter="url(#soft)">
+   <path d="M595 437 L605 457 L612 476"/>
+   <path d="M594 551 L580 564 L563 575 L562 595 L579 614 L576 674 L548 708 L539 742"/>
+   <path d="M580 614 L603 590 L622 570"/>
+  </g>
+  <g stroke-width="4" opacity=".85">
+   <path d="M595 437 L605 457 L612 476"/>
+   <path d="M594 551 L580 564 L563 575 L562 595 L579 614 L576 674 L548 708 L539 742"/>
+   <path d="M580 614 L603 590 L622 570"/>
+  </g>
+ </g>
+</svg>
