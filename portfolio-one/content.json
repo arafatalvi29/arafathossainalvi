@@ -40,10 +40,10 @@
   "community": "Volunteer · Ucchas Bangladesh · Since 2023",
   "location": "Dhaka, Bangladesh",
   "email": "arafatalvi37@gmail.com",
-  "photo": "https://alvi-digital-portfolio.light-shrew-3076.chatgpt.site/images/alvi-portrait.jpg",
-  "aboutPhoto": "https://alvi-digital-portfolio.light-shrew-3076.chatgpt.site/images/alvi-profile.jpg",
+  "photo": "../portfolio-media/alvi-portrait.jpg",
+  "aboutPhoto": "../portfolio-media/alvi-profile.jpg",
   "heroVideo": "https://alvi-digital-portfolio.light-shrew-3076.chatgpt.site/videos/alvi-portrait-rotation.mp4",
-  "cv": "https://alvi-digital-portfolio.light-shrew-3076.chatgpt.site/documents/Arafat-Hossain-Alvi-Portfolio-CV.pdf",
+  "cv": "../portfolio-media/Arafat-Hossain-Alvi-Portfolio-CV.pdf",
   "github": "",
   "linkedin": "",
   "instagram": "https://www.instagram.com/al_vin_29/",
@@ -95,7 +95,7 @@
       "title": "JIPLANCE",
       "category": "E-commerce / Personal venture",
       "description": "A book-focused online store for Bangladesh, with fashion as a growing part of the brand. I work on the site's direction, shopping experience, and ongoing improvements.",
-      "image": "https://alvi-digital-portfolio.light-shrew-3076.chatgpt.site/images/jiplance.webp",
+      "image": "../portfolio-media/jiplance.webp",
       "url": "https://jiplance.vercel.app/",
       "github": "",
       "technologies": "Next.js,Supabase,Vercel",
@@ -133,7 +133,7 @@
       "issuer": "SSD-TECH",
       "year": "2025",
       "url": "",
-      "image": "https://alvi-digital-portfolio.light-shrew-3076.chatgpt.site/images/basic-computer-certificate.jpg"
+      "image": "../portfolio-media/basic-computer-certificate.jpg"
     },
     {
       "id": "digital-marketing",
@@ -144,7 +144,7 @@
       "issuer": "Digital Marketing World",
       "year": "",
       "url": "",
-      "image": "https://alvi-digital-portfolio.light-shrew-3076.chatgpt.site/images/digital-marketing-certificate.jpg"
+      "image": "../portfolio-media/digital-marketing-certificate.jpg"
     },
     {
       "id": "graphic-design",
