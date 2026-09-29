@@ -42,7 +42,7 @@
   "email": "arafatalvi37@gmail.com",
   "photo": "../portfolio-media/alvi-portrait.jpg",
   "aboutPhoto": "../portfolio-media/alvi-profile.jpg",
-  "heroVideo": "https://alvi-digital-portfolio.light-shrew-3076.chatgpt.site/videos/alvi-portrait-rotation.mp4",
+  "heroVideo": "../portfolio-media/alvi-portrait-rotation.mp4",
   "cv": "../portfolio-media/Arafat-Hossain-Alvi-Portfolio-CV.pdf",
   "github": "",
   "linkedin": "",
